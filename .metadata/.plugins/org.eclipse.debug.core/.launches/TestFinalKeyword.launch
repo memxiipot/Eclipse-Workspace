@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/progap1-ti202-day19-code01-finalKeywordDemo/src/dls/csb/finalKeyword/demo/TestFinalKeyword.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="dls.csb.finalKeyword.demo.TestFinalKeyword"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="progap1-ti202-day19-code01-finalKeywordDemo"/>
+</launchConfiguration>

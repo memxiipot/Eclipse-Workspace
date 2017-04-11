@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Copy of progap1-ti202-day19-code02-abstractClassDemo&apos; to &apos;progap1-ti202-day19-code02-abstractClassDemo&apos;&#x0D;&#x0A;- Original element: &apos;Copy of progap1-ti202-day19-code02-abstractClassDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;Copy of progap1-ti202-day19-code02-abstractClassDemo&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Copy of progap1-ti202-day19-code02-abstractClassDemo&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Copy of progap1-ti202-day19-code02-abstractClassDemo" name="progap1-ti202-day19-code02-abstractClassDemo" references="true" stamp="1385556147907" version="1.0"/>
+</session>

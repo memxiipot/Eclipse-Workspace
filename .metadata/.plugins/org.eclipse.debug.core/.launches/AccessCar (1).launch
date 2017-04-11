@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/pragap1-ti202-day17-code02-objectCompositionDemo/src/access/car/controller/AccessCar.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="access.car.controller.AccessCar"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="pragap1-ti202-day17-code02-objectCompositionDemo"/>
+</launchConfiguration>

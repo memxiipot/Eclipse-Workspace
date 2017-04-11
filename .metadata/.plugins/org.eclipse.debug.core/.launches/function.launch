@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/progap1-ti202-day00-code01-phoneExercise/src/dls/csb/phoneexercise/function.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="dls.csb.phoneexercise.function"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="progap1-ti202-day00-code01-phoneExercise"/>
+</launchConfiguration>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;sample.HelloWorld.main().scan&apos; in &apos;sample.HelloWorld.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;progap1-ti202-day02-code01-HelloWorld&apos;&#x0D;&#x0A;- Original element: &apos;sample.HelloWorld.main().scan&apos;&#x0D;&#x0A;- Field name: &apos;scan&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;scan&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;sample{HelloWorld.java" name="scan" selection="634 29" stamp="1382259602598" static="true" version="1.0" visibility="2"/>
+</session>
